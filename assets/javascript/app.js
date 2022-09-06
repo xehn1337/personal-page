@@ -8,7 +8,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['professional paster', 'cheats', 'spoofers', 'methods', 'k.#9799'];
+  brandDescription = ['professional paster', 'cheats', 'spoofers', 'methods', ':('];
 
   titleChanger = (text, delay) => {
     if (!text) return;
